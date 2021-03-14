@@ -3,7 +3,7 @@ title: "Playing Wav files for sanity check in Python"
 date: 2021-03-13
 tags: [Python, data science,]
 header:
-  image: "![image](https://user-images.githubusercontent.com/60893597/111055865-a3bfe380-843f-11eb-8d37-7866103e5cd5.png)
+  image: "![image](https://user-images.githubusercontent.com/60893597/111056288-7412da80-8443-11eb-8574-0841be2b6183.png)
 "
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
