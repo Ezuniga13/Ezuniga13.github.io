@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "![image](https://user-images.githubusercontent.com/60893597/112768289-076e1300-8fe1-11eb-95e6-a88b31b64c2b.png)"
+  image: "/images/zakim/.jpg"
 "
 ---
 
