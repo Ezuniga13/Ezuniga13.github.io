@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
 ---
 
