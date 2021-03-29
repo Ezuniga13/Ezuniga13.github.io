@@ -6,7 +6,6 @@ header:
   image: "https://images.pexels.com/photos/691467/art-smoke-light-lights-691467.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 excerpt: "Deep Learning, Librosa, Audio Classification"
 mathjax: "true"
-
 ---
 
 
