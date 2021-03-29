@@ -1,3 +1,4 @@
+---
 title: "Playing Wav files for sanity check in Python"
 date: 2021-03-29
 tags: [Python, data science,]
@@ -6,6 +7,7 @@ header:
 excerpt: "Deep Learning, Librosa, Audio Classification"
 mathjax: "true"
 
+---
 
 
 
