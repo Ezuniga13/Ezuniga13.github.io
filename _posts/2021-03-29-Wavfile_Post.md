@@ -50,7 +50,7 @@ Next will create a variable in order for the `ipd.Audio` to play the file.
 
 
 ```python
-cats = os.listdir('/Users/estebanzuniga/Project-5/cats_dogs/train/cat/')
+cats = os.listdir('/cats_dogs/train/cat/')
 
 ```
 
