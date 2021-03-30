@@ -3,7 +3,7 @@ title: "Playing Wav files for sanity check in Python"
 date: 2021-03-29
 tags: [Python, data science,]
 header:
-  image: "https://images.pexels.com/photos/691467/art-smoke-light-lights-691467.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+  image: "/images/zakim.jpg"
 excerpt: "Deep Learning, Librosa, Audio Classification"
 mathjax: "true"
 ---
@@ -101,7 +101,7 @@ plt.ylabel("amplitude")
 
 
 
-![png](Portfolio_Post_files/Portfolio_Post_11_1.png)
+
 
 
 #### In the next post we will convert these visualizations into spectrograms, which wil be necessary to in order to classify the audio using images instead of sound. ####
