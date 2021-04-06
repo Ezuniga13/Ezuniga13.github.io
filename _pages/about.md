@@ -10,5 +10,7 @@ header:
   
   <p>While applying to law school he recognized how important statistics were for law school because they provided data to students to let then know what the chances were for admission. This in essence was a data driven decision for the school and students to get an idea if it would be worth applying or accpepting a student. When reading case law Esteban used a strategy of quantifying how many cases prevailed for a particular topic, then compared the fact pattern from those to the fact pattern for the case at hand. Using this stategy he could make a probability if the case had a good chance of prevailing or a poor one. This would help his overall analysis and would be able to use this method to better advise clients. However, by this time he realized he enjoyed more technical analysis and wanted to learn tools like Python, machine-learning and databases to make an impact. Data Science would be the ultimate platform to use these tools.</p>
   
+  <p>Esteban was accepted to Metis and graduated in the Summer 2020 cohort. He is passionate about deep learning, data cleaning, and python data structures.</p>
+  
   
 
